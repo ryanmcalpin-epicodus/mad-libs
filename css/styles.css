@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "handscript";
+  src: url('../fonts/Jellyka_Estrya_Handwriting.ttf');
+}
+
+#madlib {display:none;}
+
+#self-letter {
+  font-size:100px;
+  line-height: 60px;
+  display:block;
+  font-family:'handscript';
+  position:relative;
+  min-height:400px;
+  margin-top:100px;
+  background-color:#fff;
+  background-image:url('../imgs/parchment_paper_texture_by_sinnedaria.jpg');
+  background-size: cover;
+}
+
+#self-letter h1 {font-size:120px;}
+
+#letter-submit {font-size:80px;line-height: 60px;float:right;position:absolute;bottom:20px;right:20px;
+  background-color:rgba(255,255,255,.5);
+}
+#user-name {
+  background-color:rgba(255,255,255,0);
+  border:1px solid #ddd;
+  height:80px;
+  padding:2%;
+  }
+#response-letter {display:none;}
