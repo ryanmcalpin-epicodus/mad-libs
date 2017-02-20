@@ -1,11 +1,11 @@
-@font-face {
+/*@font-face {
   font-family: "handscript";
   src: url('../fonts/Jellyka_Estrya_Handwriting.ttf');
-}
+}*/
 
-#madlib {display:none;}
+/*#madlib {display:none;}*/
 
-#self-letter {
+/*#self-letter {
   font-size:100px;
   line-height: 60px;
   display:block;
@@ -29,4 +29,4 @@
   height:80px;
   padding:2%;
   }
-#response-letter {display:none;}
+#response-letter {display:none;}*/
